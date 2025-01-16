@@ -1,6 +1,8 @@
+import { TotalVisits } from "./total-visits";
+
 export default function ProjectCard() {
     return(
-        <div className="w-[430px] h-[132px] flex gap-5 bg-background-secondary p-3 rounded-[20px] border border-transparent hover:border-border-secondary">
+        <div className="w-[340px] h-[132px] flex gap-5 bg-background-secondary p-3 rounded-[20px] border border-transparent hover:border-border-secondary">
             <div className="size-24 rounded-md overflow-hidden flex-shrink-0">
                 <img src="/universe1.jpg" alt="" className="w-full h-full object-cover" />
 
