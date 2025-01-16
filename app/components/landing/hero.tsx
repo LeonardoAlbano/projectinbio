@@ -12,6 +12,20 @@ export default function Hero() {
                 <div className="flex items-center gap-2 w-full -mt-[10vh]">
                     <span className="text-white text-xl">projectinbio.com</span>
                     <input type="text"/>
+                    <button>Criar agora</button>
+                </div>
+            </div>
+            <div className="w-full flex items-center justify-center bg-[radial-gradient(circle_at_50%_50%,#4B20BB, transparent_55%">
+                <div className="relative">
+                    <div className="absolute -bottom-[7%] -right-[45%]">
+
+                    </div>
+                    <div className="absolute -top-[20%] -left-[45%] -z-10">
+                        
+                    </div>
+                    <div className="absolute -top-[5%] -left-[55%] -z-10">
+                    
+                    </div>
                 </div>
             </div>
         </div>
